@@ -11,4 +11,6 @@
  
 *5.Integrate the Blog Generation Module:*
 
-*6.Create HTML template*
+*6.Create HTML template.*
+
+*7.Run the App.*
