@@ -1,1 +1,1 @@
-# BLOG-Generation-Using-LLAMA2-LLM-PROJECT
+# BLOG Generation Using LLAMA2 (LLM PROJECT)
