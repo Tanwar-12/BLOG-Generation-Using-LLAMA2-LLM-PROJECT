@@ -8,3 +8,7 @@
  *3.Initialize LLM Model:*
  
  *4.Create a Blog Generation Module:*
+ 
+*5.Integrate the Blog Generation Module:*
+
+*6.Create HTML template*
