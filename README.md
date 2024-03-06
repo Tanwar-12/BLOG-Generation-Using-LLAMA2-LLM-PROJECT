@@ -1,3 +1,5 @@
 # BLOG Generation Using LLAMA2 (LLM PROJECT)
 
 ## Creating a blog generation app using llama2 involves several steps:
+*1.Install Requirements Libraries*
+ *2.Set Up Your Project:*
